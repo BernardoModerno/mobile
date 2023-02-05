@@ -4,6 +4,7 @@ import CustomerRegister from "./src/screens/CustomerRegister";
 import Home from "./src/screens/Home";
 import SignIn from "./src/screens/SignIn";
 import SignUp from "./src/screens/SignUp";
+import React from "react";
 
 const Stack = createNativeStackNavigator();
 

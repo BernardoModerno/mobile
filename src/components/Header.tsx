@@ -6,6 +6,7 @@ import {
   View,
 } from "react-native";
 import styled from "styled-components/native";
+import React from "react";
 import LogoImage from "./LogoImage";
 import { Title } from "./Title";
 

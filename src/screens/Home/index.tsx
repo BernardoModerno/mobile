@@ -10,6 +10,7 @@ import { CommonActions, useNavigation } from "@react-navigation/native";
 import getEnvVars from "../../../environments";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useEffect, useState } from "react";
+import React from "react";
 
 const Container = styled.View`
   background-color: #e2e8f0;

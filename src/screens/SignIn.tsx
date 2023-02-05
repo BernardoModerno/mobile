@@ -2,7 +2,7 @@ import { Image, Text, TouchableOpacity, View } from "react-native";
 import styled from "styled-components/native";
 import { BoxView } from "../components/BoxView";
 import { Center } from "../components/Center";
-
+import React from "react";
 import LogoImage from "../components/LogoImage";
 import { Title } from "../components/Title";
 import Input from "../components/Input";

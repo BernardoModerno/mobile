@@ -1,5 +1,5 @@
 {
-  "name": "mobile",
+  "name": "cadastro-de-clientes-mobile",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -10,20 +10,21 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@expo/vector-icons": "^12.0.0",
-    "@react-native-async-storage/async-storage": "~1.15.0",
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "~1.17.3",
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/native-stack": "^6.2.5",
-    "expo": "~44.0.0",
-    "expo-constants": "~13.0.0",
-    "expo-status-bar": "~1.2.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-native": "0.68.0",
-    "react-native-web": "~0.18.9",
+    "expo": "~46.0.0",
+    "expo-constants": "~13.2.4",
+    "expo-image-picker": "~13.3.1",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
     "react-hook-form": "^7.23.0",
-    "react-native-safe-area-context": "3.3.2",
+    "react-native": "0.69.6",
+    "react-native-safe-area-context": "4.3.1",
     "react-native-screens": "~3.10.1",
+    "react-native-web": "0.17.1",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {

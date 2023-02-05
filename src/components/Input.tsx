@@ -8,6 +8,7 @@ import {
   UseFormSetValue,
 } from "react-hook-form";
 import { useEffect, useState } from "react";
+import React from "react";
 
 const Container = styled.View`
   border: 1px solid #e2e8f0;
